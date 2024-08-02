@@ -91,7 +91,7 @@ The script will produce the following visualizations:
 
 
 
- ![](plots\Figure_1.png)
+ ![1](plots/Figure_1.png)
 
 
 
