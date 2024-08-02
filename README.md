@@ -99,7 +99,7 @@ The script will produce the following visualizations:
 
 
 
-![](plots\loss - theta0.png)
+![2](plots\loss - theta0.png)
 
 
 
@@ -107,7 +107,7 @@ The script will produce the following visualizations:
 
 
 
-![](plots\loss - theta1.png)
+![3](plots\loss - theta1.png)
 
 
 
@@ -115,6 +115,6 @@ The script will produce the following visualizations:
 
 
 
-![](plots\Target - Feature.png)
+![4](plots\Target - Feature.png)
 # Linear-Regression-from-Scratch
 
